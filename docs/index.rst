@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Normanj Docs Page
+Normanj Docs Page
 ==================================================
 
 AppValley is third-party ios App store for iOS devices. Its most popular iOS mods app store among the iOS users. You can download tweked apps, Modified Apps and Games without Jailbreak your device. Here is simples steps to downlad and install for ios devices.
