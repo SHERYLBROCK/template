@@ -9,4 +9,4 @@ AppValley is third-party ios App store for iOS devices. Its most popular iOS mod
 3 After the installation process is completed, Go to General > Profile and Select AppValley Profile.
 4 Click install button.
 
-You can get more information about appvalley app from https://appvalley.one/
+You can get more information about appvalley app from <a href="https://appvalley.one/">https://appvalley.one/</a>
